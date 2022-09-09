@@ -1,0 +1,41 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="description"
+      content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+    {{ with .Site.Params.author }}
+    <meta name="author" content="{{ . }}">{{ end }}
+  
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+  
+    {{ with .Site.GoogleAnalytics }}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+  
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', '{{ . }}');
+    </script>
+    {{ end }}
+  
+    {{ "<!-- plugins -->" | safeHTML }}
+    {{ range .Site.Params.plugins.css }}
+    <link rel="stylesheet" href="{{ .link | relURL }}">
+    {{ end }}
+    
+    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+    <link rel="stylesheet" href='{{ $styles.Permalink | relURL }}?v={{ now.Format "200601021504" }}' media="screen">
+  
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+    <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">  
+  
+  </head>

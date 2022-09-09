@@ -1,0 +1,29 @@
+{{ define "main"}}
+  <!-- contents -->
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <table data-toggle="table" data-search="true" data-search-align="left">
+      <thead>
+        <tr>
+          <th data-field="title">Comunidad</th>
+          <th data-field="temas">Temas</th>
+          <th data-field="tag">Tags</th>        
+        </tr>
+      </thead>
+      <tbody>
+      {{ range .Data.Pages.ByTitle }}
+      <tr>
+        <td><a class="session-title" href="{{.Permalink}}"><h4>{{ .Params.title }}</h4></a></td>
+        <td><ul>{{ range .Params.temas }}{{ with replace . ", " "-" }}{{ with replace . " " "-" }}{{ with $.Site.GetPage print "/temas/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
+        <td><ul>{{ range .Params.tags }}{{ with replace . ", " "-" }}{{ with replace . " " "-" }}{{ with $.Site.GetPage print "/tags/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
+      </tr>    
+     {{ end }}
+     </tbody>
+    </table>
+  </div>
+{{ end }}

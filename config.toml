@@ -1,0 +1,79 @@
+baseurl = "https://example.com/"
+title = "Comunidades Tech"
+theme = "bootstrap-clean"
+canonifyurls = true
+hasCJKLanguage = true
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# googleAnalytics = "{your tracking code}"
+
+[taxonomies]
+tag = "tags"
+formato = "formatos"
+region = "regiones"
+tema = "temas"
+
+
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
+
+[params]
+    author = "Your Name"
+    avatar = "avatar.jpg"
+    # avatarDescription = "My avatar description"
+    favicon = "favicon.ico"
+    description = """
+        Please write anything here.
+        Profiles, backgrounds, favorite things etc.
+    """
+    publicationYear = "2019"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    # custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+# Make sure setting a following option for search bar to work
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+    term = ["JSON", "HTML"]
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+
+[[menu.main]]
+    name = "Comunidades"
+    url = "/comunidades"
+    weight = 2
+
+[[menu.main]]
+    name = "Temas"
+    url = "/temas"
+    weight = 4
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 5
+
+
+[[params.plugins.css]]
+link = "https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+
+[[params.plugins.css]]
+link = "https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.css"
+
+# JS Plugins
+
+[[params.plugins.js]]
+link = "https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"
+
+[[params.plugins.js]]
+link="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.js"
+
+

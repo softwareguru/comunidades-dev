@@ -1,0 +1,28 @@
+<div class="container">
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <span class="fs-4">{{ .Site.Title }}</span>
+      </a>
+
+      <ul class="nav nav-pills">
+        {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {{ .Name }}
+          </a>
+          <ul class="dropdown-menu">
+            {{ range .Children }}
+            <li><a class="dropdown-item" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ else }}
+        <li class="nav-item"><a href="{{ .URL | relURL }}" class="nav-link">{{ .Name }}</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </header>
+</div>
+
+

@@ -1,0 +1,7 @@
+{{ $len := len .Pages }}
+[{{ range $index, $page := .Pages }}
+    {
+        "ref": "{{ $page.Permalink }}",
+        "title": {{ $page.Title | jsonify }}
+    }{{ if lt (add $index 1) $len }},{{ end }}
+{{ end }}]

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div id="content">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+
+        {{ "<!-- JS Plugins -->" | safeHTML }}
+        {{ range .Site.Params.plugins.js}}
+        <script src="{{ .link | relURL }}"></script>
+        {{ end }}
+    
+    </body>
+</html>

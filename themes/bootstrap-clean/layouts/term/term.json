@@ -1,0 +1,10 @@
+[{{ range $index, $page := .Pages }}{{ if ne $index 0 }},{{ end }}
+    {
+        "ref": "{{ $page.Permalink }}",
+        "title": {{ $page.Title | jsonify }},
+        "tags": {{ $page.Params.tags | jsonify }},
+        "temas": {{ $page.Params.temas | jsonify }},
+        "date" : {{ $page.Date.Format "2006-01-02" | jsonify }},
+        "description": {{ $page.Plain | jsonify }}
+    }
+{{ end }}]
