@@ -1,6 +1,6 @@
 ---
 title: "Java User Group Gdl"
-date: 2022-09-08T17:32:05-05:00
+date: 2022-09-09T14:32:05-05:00
 ext_url: https://gdljug.github.io/
 
 formato:

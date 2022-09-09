@@ -1,6 +1,6 @@
 ---
 title: "The Data Pub"
-date: 2022-09-08T17:32:05-05:00
+date: 2022-09-09T17:32:05-05:00
 ext_url: https://twitter.com/thedatapub
 
 formatos:

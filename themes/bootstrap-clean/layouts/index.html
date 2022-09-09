@@ -1,7 +1,19 @@
 {{ define "main" }}
 
 <div class="container mt-5">
+<h3>Bienvenida(o) a un directorio más de comunidades tecnológicas de habla hispana</h3>
+<ul>
+  <li>Se genera a partir de <a href="https://github.com/softwareguru/comunidades-dev">este repositorio público</a>.</li> 
+  <li>Si deseas agregar una comunidad, simplemente agrega un archivo .md bajo la carpeta de <em>content/comunidades</em> y envía el pull request.</li>
+  <li>Apenas es una prueba de concepto, por lo que todavía no está bonito.</li>
+  <li>También da resultados en json si le agreguas index.json a cualquier url con un listado (<a href="/comunidades/index.json">ejemplo</a>).</li>
+</ul>
+
+  
+
+{{ partial "latest.html" . }}
 
 </div>
+
 
   {{ end }}

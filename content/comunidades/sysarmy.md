@@ -1,6 +1,6 @@
 ---
 title: "Sysarmy"
-date: 2022-09-08T17:32:05-05:00
+date: 2022-09-08T16:32:05-05:00
 ext_url: https://sysarmy.com/
 
 formatos:
