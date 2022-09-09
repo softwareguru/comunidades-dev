@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://comunidadesdev.netlify.app"
 title = "Comunidades Tech"
 theme = "bootstrap-clean"
 canonifyurls = true
@@ -10,7 +10,6 @@ hasCJKLanguage = true
 [taxonomies]
 tag = "tags"
 formato = "formatos"
-region = "regiones"
 tema = "temas"
 
 
@@ -18,21 +17,13 @@ tema = "temas"
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Your Name"
-    avatar = "avatar.jpg"
-    # avatarDescription = "My avatar description"
+    author = "Software Guru"
     favicon = "favicon.ico"
     description = """
         Please write anything here.
         Profiles, backgrounds, favorite things etc.
     """
-    publicationYear = "2019"
-    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
-    # singlePageDateFormat = "January 2, 2006"
-    # custom_css = ["/css/custom.css"]
-    # custom_js = ["/js/custom.js"]
 
-# Make sure setting a following option for search bar to work
 [outputs]
     section = ["JSON", "HTML"]
     taxonomy = ["JSON", "HTML"]
@@ -75,5 +66,3 @@ link="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.
 
 [[params.plugins.js]]
 link="https://unpkg.com/bootstrap-table@1.21.0/dist/bootstrap-table.min.js"
-
-
