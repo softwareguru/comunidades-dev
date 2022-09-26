@@ -6,6 +6,7 @@ temas:
  - Lenguajes y frameworks
 
 tags:
+ - Colombia
 
 ---
 
