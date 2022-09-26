@@ -7,7 +7,7 @@ formatos:
  - en-persona
 
 temas:
- - langs
+ - Lenguajes y frameworks
 
 tags:
  - Ruby
