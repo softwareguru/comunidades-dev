@@ -1,0 +1,28 @@
+{{ define "main"}}
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.ext_url }}
+    <div class="website mb-3"><a href="{{ . }}">{{ . }}</a></div>
+    {{ end }}
+    {{ .Content }}
+
+    <div id="temas">
+      <h5>Temas de interés</h5>
+      <ul>
+      {{ range (.GetTerms "temas") }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}    
+    </ul>
+    </div>
+    <div id="tags">
+      <h5>Tags</h5>
+      <ul>
+      {{ range (.GetTerms "tags") }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}    
+    </ul>
+    </div>
+
+
+  </div>
+{{ end }}
