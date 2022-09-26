@@ -5,19 +5,32 @@
     <h1 class="title is-2">{{ . }}</h1>
     {{ end }}
     <div class="content">
-      {{ with .Content }}{{ . }}{{ end }} 
-      {{ range $taxonomyName, $taxonomy := .Site.Taxonomies }} 
-      {{ if ne $taxonomyName "tags" }}
-      <h2>{{ $taxonomyName | title }}</h2>
+      {{ .Content }} 
+      <h2>Secciones</h2>
       <ul>
-        {{ range $key, $value := $taxonomy }}
+        {{ range .Site.Sections }}
+        <li><a href='{{ .Permalink }}/index.xml'>{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+
+      <h2>Temas</h2>
+      <ul>
+      {{ range $key, $value := .Site.Taxonomies.temas }} 
         {{ with $value.Page.OutputFormats.Get "rss" }}
         <li><a href="{{ .Permalink }}">{{ $value.Page.Title }}</a></li>
         {{ end }}
-        {{ end }}
-      </ul>
-      {{ end }} 
       {{ end }}
+      </ul>
+
+      <h2>Tags</h2>
+      <ul>
+      {{ range $key, $value := .Site.Taxonomies.tags }} 
+        {{ with $value.Page.OutputFormats.Get "rss" }}
+        <li><a href="{{ .Permalink }}">{{ $value.Page.Title }}</a></li>
+        {{ end }}
+      {{ end }}
+      </ul>
+
     </div>
   </section>
 </div>

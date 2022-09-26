@@ -3,4 +3,4 @@ title: "RSS Feeds"
 layout: rss
 ---
 
-Información de Feeds RSS.
+Enlaces a feeds RSS.
