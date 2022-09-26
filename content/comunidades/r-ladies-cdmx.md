@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-cdmx/
 date: 2022-09-26 18:04:56.880170
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

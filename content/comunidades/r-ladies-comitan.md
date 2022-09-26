@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es-ES/rladies-comitan/
 date: 2022-09-26 18:52:44.617750
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

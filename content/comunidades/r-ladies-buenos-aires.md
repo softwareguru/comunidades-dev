@@ -4,7 +4,7 @@ ext_url: https://rladiesba.netlify.app/
 date: 2022-09-26 18:21:22.497691
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

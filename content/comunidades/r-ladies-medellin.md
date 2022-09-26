@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es-ES/rladies-medellin/
 date: 2022-09-26 18:38:05.773229
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

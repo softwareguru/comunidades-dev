@@ -3,7 +3,7 @@ title: Codeando México
 ext_url: https://www.codeandomexico.org/
 date: 2022-09-26 03:25:57.596126
 temas:
- - Hacking cívico
+ - hacking civico
 
 tags:
  - México

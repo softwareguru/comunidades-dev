@@ -4,7 +4,7 @@ ext_url: https://twitter.com/RLadiesMvd
 date: 2022-09-26 18:38:10.070123
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

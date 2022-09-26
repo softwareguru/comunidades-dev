@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-guadalajara/
 date: 2022-09-26 18:04:55.560402
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

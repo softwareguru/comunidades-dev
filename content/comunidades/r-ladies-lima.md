@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-lima/
 date: 2022-09-26 18:52:41.210604
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

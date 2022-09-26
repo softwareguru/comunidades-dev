@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-cuernavaca/
 date: 2022-09-26 18:52:39.215851
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

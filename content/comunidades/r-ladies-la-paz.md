@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-la-paz/
 date: 2022-09-26 18:52:42.317128
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

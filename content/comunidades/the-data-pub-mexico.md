@@ -4,7 +4,7 @@ ext_url: meetup.com/thedatapub
 date: 2022-09-26 13:01:04.020464
 temas:
  - data
- - Hacking cívico
+ - Hacking civico
 
 tags:
  - Ciencia de datos

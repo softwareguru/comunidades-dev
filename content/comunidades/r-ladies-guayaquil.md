@@ -3,7 +3,7 @@ title: R-Ladies Guayaquil
 ext_url: https://www.meetup.com/rladies-guayaquil/
 date: 2022-09-26 18:21:24.436347
 temas:
- - Diversidad e inclusión
+ - diversidad
  - data
 
 tags:

@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/en-AU/rladies-queretaro/
 date: 2022-09-26 18:21:23.484160
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R

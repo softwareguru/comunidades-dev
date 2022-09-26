@@ -3,7 +3,7 @@ title: Technolatinas
 ext_url: https://technolatinas.org/
 date: 2022-09-26 17:49:12.443750
 temas:
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - Latam
