@@ -1,8 +1,8 @@
 ---
 title: Comunidad con topics
 ext_url: string
-date: 2022-09-26 00:55:31.693907
+date: 2022-09-26 00:59:41.753665
 ---
 
-Comunidad con una lista de topics
+Comunidad con lista de topics
     
