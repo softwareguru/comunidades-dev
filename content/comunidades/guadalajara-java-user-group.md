@@ -7,6 +7,9 @@ temas:
 
 tags:
  - Guadalajara
+ - Java
+ - Kotlin
+ - JVM
 
 ---
 
