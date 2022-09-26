@@ -3,9 +3,10 @@ title: Sysarmy México
 ext_url: https://www.meetup.com/sysarmy-mexico/
 date: 2022-09-26 03:25:55.478510
 temas:
- - infra
+ - Infraestructura/Ops
 
 tags:
+ - México
 
 ---
 
