@@ -1,11 +1,7 @@
 baseurl = "https://comunidadesdev.netlify.app"
 title = "Comunidades Tech"
 theme = "bootstrap-clean"
-canonifyurls = true
-hasCJKLanguage = true
-# pygmentsCodefences = true
-# pygmentsUseClasses = true
-# googleAnalytics = "{your tracking code}"
+removePathAccents = true
 
 [taxonomies]
 tag = "tags"
@@ -19,10 +15,7 @@ tema = "temas"
 [params]
     author = "Software Guru"
     favicon = "favicon.ico"
-    description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
-    """
+    description = "Directorio de comunidades de tecnología en Latam"
 
 [outputs]
     section = ["JSON", "HTML", "RSS"]
