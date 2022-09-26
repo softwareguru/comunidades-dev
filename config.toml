@@ -15,7 +15,7 @@ tema = "temas"
 [params]
     author = "Software Guru"
     favicon = "favicon.ico"
-    description = "Directorio de comunidades de tecnología en Latam"
+    description = "Directorio de comunidades tecnológicas de habla hispana. Conoce comunidades por temas y regiones."
 
 [outputs]
     section = ["JSON", "HTML", "RSS"]
