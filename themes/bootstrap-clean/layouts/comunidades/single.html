@@ -2,7 +2,7 @@
   <div class="container">
     <h1>{{ .Title }}</h1>
     {{ with .Params.ext_url }}
-    <div class="website mb-3"><a href="{{ . }}">{{ . }}</a></div>
+    <div class="website mb-3"><a href="{{ . }}" target="_blank">{{ . }}</a></div>
     {{ end }}
     {{ .Content }}
 
