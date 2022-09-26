@@ -1,15 +1,14 @@
 ---
-title: "Sysarmy"
-date: 2022-09-08T16:32:05-05:00
+title: Sysarmy
 ext_url: https://sysarmy.com/
-
-formatos:
- - en-persona
-
+date: 2022-09-26 03:25:56.507414
 temas:
- - infra
+ - Infraestructura/Ops
+
 tags:
- - Argentina 
+
 ---
 
-Sysarmy es la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
+Comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
+
+    
