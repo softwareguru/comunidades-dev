@@ -7,6 +7,7 @@ temas:
 
 tags:
  - Ruby
+ - Lima
  - Perú
 
 ---
