@@ -7,6 +7,7 @@ temas:
  - Desarrollo profesional
 
 tags:
+ - Latam
 
 ---
 
