@@ -3,7 +3,7 @@ title: Hack Women
 ext_url: https://twitter.com/hack_women
 date: 2022-09-26 13:38:48.980818
 temas:
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - Mujeres

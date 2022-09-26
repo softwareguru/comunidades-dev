@@ -3,7 +3,7 @@ title: Pioneras
 ext_url: https://twitter.com/pionerasdev
 date: 2022-09-26 13:38:45.764569
 temas:
- - Diversidad e inclusión
+ - diversidad
  - Desarrollo profesional
 
 tags:

@@ -8,7 +8,7 @@ formatos:
  - streaming
 
 temas:
- - minorias
+ - diversidad
 
 tags:
  - Mujeres

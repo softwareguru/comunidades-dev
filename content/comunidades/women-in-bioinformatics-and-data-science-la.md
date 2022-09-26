@@ -4,6 +4,7 @@ ext_url: https://wbds.la/
 date: 2022-09-26 13:38:51.842365
 temas:
  - data
+ - diversidad
 
 tags:
  - Bioinformática

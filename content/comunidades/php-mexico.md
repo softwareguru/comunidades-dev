@@ -4,7 +4,7 @@ ext_url: https://phpmexico.mx/
 date: 2022-09-26 12:35:00.851358
 temas:
  - Lenguajes y frameworks
- - Minorias
+ - diversidad
  - Open source
 
 tags:
