@@ -10,6 +10,7 @@ tags:
  - R
  - Mujeres
  - Guadalajara
+ - R-ladies
 
 ---
 
