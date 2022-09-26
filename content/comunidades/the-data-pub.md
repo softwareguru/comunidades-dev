@@ -3,9 +3,12 @@ title: The Data Pub
 ext_url: https://twitter.com/thedatapub
 date: 2022-09-26 02:45:23.982039
 temas:
- - Datos & IA
+ - data
 
 tags:
+ - Estadística
+ - Machine Learning
+ - Ciudad de México
 
 ---
 
