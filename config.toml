@@ -1,5 +1,5 @@
-baseurl = "https://comunidadesdev.netlify.app"
-title = "Comunidades Tech"
+baseurl = "https://comunidades.dev"
+title = "Comunidades Dev"
 theme = "bootstrap-clean"
 removePathAccents = true
 
