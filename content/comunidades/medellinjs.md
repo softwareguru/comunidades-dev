@@ -7,6 +7,8 @@ temas:
 
 tags:
  - JavaScript
+ - Medellín
+ - Colombia
 
 ---
 
