@@ -7,7 +7,8 @@ temas:
 
 tags:
  - Java
- - Ruby
+ - Agile
+ - Bug hunting
 
 ---
 
