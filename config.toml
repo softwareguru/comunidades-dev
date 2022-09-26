@@ -25,9 +25,9 @@ tema = "temas"
     """
 
 [outputs]
-    section = ["JSON", "HTML"]
-    taxonomy = ["JSON", "HTML"]
-    term = ["JSON", "HTML"]
+    section = ["JSON", "HTML", "RSS"]
+    taxonomy = ["JSON", "HTML", "RSS"]
+    term = ["JSON", "HTML", "RSS"]
 
 [[menu.main]]
     name = "About"
