@@ -3,10 +3,13 @@ title: GDG Cloud Mexico City
 ext_url: https://gdg.community.dev/gdg-cloud-mexico-city/
 date: 2022-09-26 19:41:28.714910
 temas:
- - infra
+ - Infraestructura/Ops
 
 tags:
  - GDG
+ - Cloud
+ - Ciudad de México
+ - México
 
 ---
 
