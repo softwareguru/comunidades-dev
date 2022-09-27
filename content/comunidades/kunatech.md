@@ -3,7 +3,7 @@ title: Kuñatech
 ext_url: https://twitter.com/kunatechpy
 date: 2022-09-26 13:38:46.826846
 temas:
- - diversidad
+ - Diversidad e inclusión
 
 tags:
  - Mujeres
