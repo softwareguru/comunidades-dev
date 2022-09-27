@@ -4,7 +4,7 @@ ext_url: https://www.meetup.com/es/rladies-barranquilla/
 date: 2022-09-26 18:52:40.194767
 temas:
  - data
- - Diversidad e inclusión
+ - diversidad
 
 tags:
  - R
