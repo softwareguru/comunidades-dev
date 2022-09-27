@@ -3,6 +3,8 @@ title = "Comunidades Dev"
 theme = "bootstrap-clean"
 removePathAccents = true
 
+googleAnalytics = "G-L13LZSNWPP"
+
 [taxonomies]
 tag = "tags"
 formato = "formatos"
