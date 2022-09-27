@@ -14,3 +14,20 @@ footer p {
 footer p a {
   text-decoration: none;
 }
+
+ul.taglist {
+  display: inline;
+  list-style: none;
+}
+
+ul.taglist li {
+  display: inline;
+}
+
+ul.taglist li:after {
+  content: ", ";
+}
+
+ul.taglist li:last-child:after {
+  content: "";
+}

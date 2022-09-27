@@ -3,11 +3,11 @@ title: Robots Latam
 ext_url: www.robotslatam.com
 date: 2022-09-26 12:34:57.836032
 temas:
- - maker
+ - Maker
  - Open source
 
 tags:
- - Robotica
+ - Robótica
  - Open hardware
 
 ---
