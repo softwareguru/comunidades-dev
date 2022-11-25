@@ -16,7 +16,7 @@ tags:
  - Rosario
  - Argentina
 
-lastmod: 2022-11-25 23:44:01
+lastmod: 2022-11-25 23:58:24
 ---
 
 Somos una comunidad que reúne desarrolladores, colaboradores y entusiastas que desean aprender a utilizar tecnologías de Google para brindar soluciones innovadoras a problemas relacionados con el ámbito académico, comunitario y empresarial.
