@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - buenos-aires
- - argentina
- - r-ladies
+ - R
+ - Mujeres
+ - Buenos Aires
+ - Argentina
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:29
+lastmod: 2022-11-26 23:30:14
 ---
 
 Somos RLadies Buenos Aires, el capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R.
