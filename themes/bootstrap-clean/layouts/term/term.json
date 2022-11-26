@@ -2,6 +2,8 @@
     {
         "ref": "{{ $page.Permalink }}",
         "title": {{ $page.Title | jsonify }},
+        "main_url": {{ $page.Params.url_main | jsonify }},
+        "links": {{ $page.Params.links | jsonify }},
         "tags": {{ $page.Params.tags | jsonify }},
         "temas": {{ $page.Params.temas | jsonify }},
         "date" : {{ $page.Date.Format "2006-01-02" | jsonify }},
