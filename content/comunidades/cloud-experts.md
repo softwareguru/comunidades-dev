@@ -16,7 +16,7 @@ tags:
  - Azure
  - Microsoft
 
-lastmod: 2022-11-26 22:13:50
+lastmod: 2022-11-26 23:30:42
 ---
 
 Somos una comunidad de jovenes entusiastas y profesionales en tecnología Microsoft.
