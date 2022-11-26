@@ -1,18 +1,20 @@
 ---
 title: GDG Cloud Bogotá
-ext_url: https://www.facebook.com/groups/GDGCloudBogota/
-date: 2022-09-26 23:21:11.631209
-temas:
- - infra
+slug: gdg-cloud-bogota
+source_id: recvCUftBskkwyPJD
+date: 2022-09-27T04:19:00.000Z
+url_main: https://www.facebook.com/groups/GDGCloudBogota/
+submitted_by: pedrogk
+topics: 
+ - infraestructura-ops
 
-tags:
- - GDG
- - Cloud
- - Bogotá
- - Colombia
+tags: 
+ - gdg
+ - cloud
+ - bogota
+ - colombia
 
+lastmod: 2022-11-26 22:13:45
 ---
 
 GDG Cloud Bogotá es una comunidad de tecnología perteneciente al red global de GDG (Google Developers Groups). Si eres usuario de Google Cloud Platform (GCP) o simplemente deseas conocer sobre las ventajas de usar GCP, tecnologías Cloud e Iniciativas Open Source, te invitamos a unirte a un apasionado grupo de entusiastas que desean intercambiar ideas, pensamientos, mejores prácticas y preguntas en un ambiente cómodo donde todos son bienvenidos.
-
-    
