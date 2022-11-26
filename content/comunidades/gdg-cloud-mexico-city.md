@@ -5,6 +5,11 @@ source_id: recsnFmE2vrSeqG2Z
 date: 2022-09-27T00:31:47.000Z
 url_main: https://gdg.community.dev/gdg-cloud-mexico-city/
 submitted_by: pedrogk
+links: 
+ - https-www-meetup-com-es-cloudmx
+ - https-www-facebook-com-gdgcloudmx
+ - https-twitter-com-gdg-cloudmx
+
 topics: 
  - infraestructura-ops
 
@@ -14,7 +19,7 @@ tags:
  - Ciudad de México
  - México
 
-lastmod: 2022-11-26 22:13:41
+lastmod: 2022-11-26 23:30:34
 ---
 
 Somos una comunidad que gusta de las máquinas virtuales, de los contenedores de Linux, del análisis masivo de datos y de las nubes, en general.
