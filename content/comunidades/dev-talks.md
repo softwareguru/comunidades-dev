@@ -16,8 +16,8 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - peru
- - latam
+ - Perú
+ - Latam
 
 lastmod: 2022-11-26 22:13:47
 ---

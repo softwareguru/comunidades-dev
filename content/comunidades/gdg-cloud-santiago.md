@@ -9,10 +9,10 @@ topics:
  - infraestructura-ops
 
 tags: 
- - cloud
- - gdg
- - santiago
- - chile
+ - Cloud
+ - GDG
+ - Santiago
+ - Chile
 
 lastmod: 2022-11-26 22:13:39
 ---

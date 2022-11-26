@@ -11,9 +11,9 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - mujeres
- - estudiantes
- - ciudad-de-mexico
+ - Mujeres
+ - Estudiantes
+ - Ciudad de México
 
 lastmod: 2022-11-26 22:13:13
 ---

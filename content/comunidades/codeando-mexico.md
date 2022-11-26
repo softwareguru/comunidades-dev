@@ -14,7 +14,7 @@ topics:
  - hacking-civico
 
 tags: 
- - mexico
+ - México
 
 lastmod: 2022-11-26 22:13:05
 ---

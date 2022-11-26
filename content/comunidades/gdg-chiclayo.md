@@ -9,10 +9,10 @@ topics:
  - mobile
 
 tags: 
- - gdg
- - web
- - chiclayo
- - peru
+ - GDG
+ - Web
+ - Chiclayo
+ - Perú
 
 lastmod: 2022-11-26 22:13:42
 ---

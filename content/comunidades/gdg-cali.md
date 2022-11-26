@@ -14,9 +14,9 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - gdg
- - cali
- - colombia
+ - GDG
+ - Cali
+ - Colombia
 
 lastmod: 2022-11-26 22:13:58
 ---

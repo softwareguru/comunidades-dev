@@ -12,9 +12,9 @@ topics:
  - blockchain-cripto
 
 tags: 
- - ethereum
- - santiago
- - chile
+ - Ethereum
+ - Santiago
+ - Chile
 
 lastmod: 2022-11-26 22:13:53
 ---

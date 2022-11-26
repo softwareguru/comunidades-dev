@@ -13,8 +13,9 @@ topics:
  - open-source
 
 tags: 
- - fedora
- - linux
+ - Fedora
+ - Linux
+ - México
 
 lastmod: 2022-11-26 22:13:22
 ---

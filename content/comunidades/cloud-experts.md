@@ -12,9 +12,9 @@ topics:
  - infraestructura-ops
 
 tags: 
- - cloud
- - azure
- - microsoft
+ - Cloud
+ - Azure
+ - Microsoft
 
 lastmod: 2022-11-26 22:13:50
 ---

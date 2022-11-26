@@ -9,9 +9,9 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - gdg
- - mexico
- - estudiantes
+ - GDG
+ - México
+ - Estudiantes
 
 lastmod: 2022-11-26 22:13:55
 ---

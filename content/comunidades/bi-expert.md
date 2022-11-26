@@ -11,10 +11,9 @@ topics:
  - data-ia
 
 tags: 
- - lima
- - peru
- - ia
- - business-intelligence
+ - Lima
+ - Perú
+ - Business Intelligence
 
 lastmod: 2022-11-26 22:13:49
 ---

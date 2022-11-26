@@ -13,8 +13,8 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - guanajuato
- - mexico
+ - Guanajuato
+ - México
 
 lastmod: 2022-11-26 22:14:00
 ---

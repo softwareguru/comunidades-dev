@@ -10,8 +10,9 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - rosario
- - argentina
+ - Rosario
+ - Argentina
+ - GDG
 
 lastmod: 2022-11-26 22:14:01
 ---

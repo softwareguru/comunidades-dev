@@ -10,9 +10,9 @@ topics:
  - desarrollo-profesional
 
 tags: 
- - medellin
- - colombia
- - gdg
+ - Medellín
+ - Colombia
+ - GDG
 
 lastmod: 2022-11-26 22:14:02
 ---

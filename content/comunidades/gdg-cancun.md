@@ -10,9 +10,9 @@ topics:
  - mobile
 
 tags: 
- - gdg
- - cancun
- - mexico
+ - GDG
+ - Cancún
+ - México
 
 lastmod: 2022-11-26 22:13:40
 ---

@@ -17,7 +17,7 @@ topics:
  - desarrollo-profesional
 
 tags: 
- - latam
+ - Latam
 
 lastmod: 2022-11-26 22:13:05
 ---

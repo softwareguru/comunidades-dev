@@ -15,12 +15,12 @@ topics:
  - hardware-maker-embedded
 
 tags: 
- - embedded
- - arduino
- - avr
- - arm
- - risc-v
- - tijuana
+ - Embedded
+ - Arduino
+ - AVR
+ - ARM
+ - Tijuana
+ - México
 
 lastmod: 2022-11-26 22:13:10
 ---

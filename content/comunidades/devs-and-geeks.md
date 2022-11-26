@@ -12,7 +12,7 @@ topics:
  - desarrollo-profesional
 
 tags: 
- - mexico
+ - México
 
 lastmod: 2022-11-26 22:13:18
 ---

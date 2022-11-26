@@ -1,5 +1,5 @@
 ---
-title: "Infraestructura y Ops"
+title: "Infraestructura & Ops"
 
 ---
 

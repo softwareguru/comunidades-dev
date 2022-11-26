@@ -11,10 +11,10 @@ topics:
  - agilidad-colaboracion
 
 tags: 
- - kanban
- - scrum
- - santiago
- - chile
+ - Kanban
+ - Scrum
+ - Santiago
+ - Chile
 
 lastmod: 2022-11-26 22:13:54
 ---

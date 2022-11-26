@@ -14,10 +14,10 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - javascript
- - cordoba
- - argentina
- - beerjs
+ - JavaScript
+ - Córdoba
+ - Argentina
+ - BeerJS
 
 lastmod: 2022-11-26 22:13:48
 ---

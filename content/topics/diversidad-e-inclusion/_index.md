@@ -1,5 +1,5 @@
 ---
-title: "Diversidad e Inclusión"
+title: "Diversidad e inclusión"
 
 ---
 

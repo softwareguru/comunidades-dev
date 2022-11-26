@@ -9,9 +9,9 @@ topics:
  - ux
 
 tags: 
- - bogota
- - colombia
- - figma
+ - Bogotá
+ - Colombia
+ - Figma
 
 lastmod: 2022-11-26 22:12:57
 ---

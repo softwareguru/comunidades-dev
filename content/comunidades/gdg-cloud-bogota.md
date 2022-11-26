@@ -9,10 +9,10 @@ topics:
  - infraestructura-ops
 
 tags: 
- - gdg
- - cloud
- - bogota
- - colombia
+ - GDG
+ - Cloud
+ - Bogota
+ - Colombia
 
 lastmod: 2022-11-26 22:13:45
 ---

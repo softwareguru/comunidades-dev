@@ -19,7 +19,7 @@
       {{ range .Data.Pages.ByTitle }}
       <tr>
         <td><a class="session-title" href="{{.Permalink}}"><h4>{{ .Params.title }}</h4></a></td>
-        <td><ul>{{ range .Params.temas }}{{ with replace . ", " "-" }}{{ with replace . " " "-" }}{{ with $.Site.GetPage print "/temas/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
+        <td><ul>{{ range .Params.topics }}{{ with replace . ", " "-" }}{{ with replace . " " "-" }}{{ with $.Site.GetPage print "/topics/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
         <td><ul>{{ range .Params.tags }}{{ with replace . ", " "-" }}{{ with replace . " " "-" }}{{ with $.Site.GetPage print "/tags/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
       </tr>    
      {{ end }}

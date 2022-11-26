@@ -1,5 +1,5 @@
 ---
-title: "Datos e IA"
+title: "Data & IA"
 
 ---
 

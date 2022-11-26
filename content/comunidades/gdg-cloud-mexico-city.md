@@ -9,10 +9,10 @@ topics:
  - infraestructura-ops
 
 tags: 
- - gdg
- - cloud
- - ciudad-de-mexico
- - mexico
+ - GDG
+ - Cloud
+ - Ciudad de México
+ - México
 
 lastmod: 2022-11-26 22:13:41
 ---

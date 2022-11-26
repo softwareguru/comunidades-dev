@@ -10,10 +10,10 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - gdg
- - estudiantes
- - orizaba
- - mexico
+ - GDG
+ - Estudiantes
+ - Orizaba
+ - México
 
 lastmod: 2022-11-26 22:13:56
 ---

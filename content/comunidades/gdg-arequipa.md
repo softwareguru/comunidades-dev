@@ -13,11 +13,11 @@ topics:
  - lenguajes-y-frameworks
 
 tags: 
- - gdg
- - arequipa
- - peru
- - android
- - flutter
+ - GDG
+ - Arequipa
+ - Perú
+ - Android
+ - Flutter
 
 lastmod: 2022-11-26 22:13:44
 ---
