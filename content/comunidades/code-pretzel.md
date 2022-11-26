@@ -15,14 +15,14 @@ topics:
  - hardware-maker-embedded
 
 tags: 
- - Embedded
+ - embedded
  - Arduino
  - AVR
  - ARM
+ - RISC V
  - Tijuana
- - México
 
-lastmod: 2022-11-26 22:13:10
+lastmod: 2022-11-26 23:30:45
 ---
 
 Proporcionar una comunidad donde crear sistemas embebidos, aprender, compartir entre todos, principiantes y avanzados y en el camino, mostrar el talento latinoamericano.
