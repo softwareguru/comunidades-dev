@@ -4,20 +4,19 @@ slug: calzada-code
 source_id: recXIMdiiAeZi0kAI
 date: 2022-10-05T03:44:25.000Z
 url_main: https://calzadacode.dev/
-submitted_by: None
 links: 
- - https://www.facebook.com/calzadaCode/
- - https://twitter.com/CalzadaCode/
+ - https-www-facebook-com-calzadacode
+ - https-twitter-com-calzadacode
 
 topics: 
- - data
- - Lenguajes y frameworks
+ - data-ia
+ - lenguajes-y-frameworks
 
 tags: 
- - Guanajuato
- - México
+ - guanajuato
+ - mexico
 
-lastmod: 2022-11-26 01:01:12
+lastmod: 2022-11-26 16:06:32
 ---
 
 Somos una comunidad de entusiastas del desarrollo de software.
