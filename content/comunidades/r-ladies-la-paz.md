@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - la-paz
- - bolivia
- - r-ladies
+ - R
+ - Mujeres
+ - La Paz
+ - Bolivia
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:30
+lastmod: 2022-11-26 23:30:02
 ---
 
 Nuestra meta es crear una atmósfera amigable para personas interesadas en programar en R en La Paz que se identifiquen como mujer o con géneros disidentes (por ejemplo, personas con género fluído o agénero, entre otras). No importa si nunca usaste R ó si tienes R como herramienta principal de trabajo. El objetivo es promover R, intercambiar conocimiento y crear una red de contactos.
