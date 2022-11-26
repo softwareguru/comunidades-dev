@@ -19,7 +19,7 @@ tags:
  - Argentina
  - BeerJS
 
-lastmod: 2022-11-26 00:36:32
+lastmod: 2022-11-26 00:44:17
 ---
 
 Comunidad de Javascript y Cervezas de Córdoba, Argentina
