@@ -5,16 +5,22 @@ source_id: recd8vvXvLafNki8M
 date: 2022-09-08T19:02:26.000Z
 url_main: https://medellinjs.org/
 submitted_by: pedrogk
+links: 
+ - https-www-facebook-com-medellinjs
+ - https-twitter-com-medellinjs
+ - https-www-meetup-com-medellinjs
+ - https-www-youtube-com-medellinjs
+
 topics: 
  - lenguajes-y-frameworks
 
 tags: 
- - javascript
- - medellin
- - colombia
- - col-js
+ - JavaScript
+ - Medellín
+ - Colombia
+ - Col.js
 
-lastmod: 2022-11-26 22:13:01
+lastmod: 2022-11-26 23:30:20
 ---
 
 Comunidad de apasionados cuyo fin es el de fortalecer y articular el ecosistema tecnológico de la ciudad de Medellín, Colombia.
