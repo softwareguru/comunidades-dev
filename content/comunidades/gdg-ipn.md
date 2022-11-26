@@ -1,18 +1,19 @@
 ---
 title: GDG IPN
-ext_url: https://www.facebook.com/GDGIPN/
-date: 2022-09-28 16:13:37.358658
-temas:
- - Mobile app dev
- - Lenguajes y frameworks
+slug: gdg-ipn
+source_id: recn1ry7w5nyogwok
+date: 2022-09-28T21:06:46.000Z
+url_main: https://www.facebook.com/GDGIPN/
+topics: 
+ - mobile
+ - lenguajes-y-frameworks
 
-tags:
- - GDG
- - México
- - Estudiantes
+tags: 
+ - gdg
+ - mexico
+ - estudiantes
 
+lastmod: 2022-11-26 22:13:55
 ---
 
 Grupo de Desarrolladores de Google del Instituto Politécnico Nacional (GDG IPN), espacio de integración y retroalimentación de estudiantes principalmente. Las opiniones de GDG IPN son nuestras y no representan las de Google.
-
-    
