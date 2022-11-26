@@ -10,12 +10,12 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - guadalajara
- - r-ladies
+ - R
+ - Mujeres
+ - Guadalajara
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:26
+lastmod: 2022-11-26 23:42:59
 ---
 
 R- Ladies Guadalajara es parte de R-Ladies Global ( <https://www.rladies.org> ), una organización que promueve la diversidad de género en la comunidad de R en el mundo. Donde nos reunimos de manera virtual y presencial para compartir dudas, ideas e intereses.
