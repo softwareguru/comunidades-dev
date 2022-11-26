@@ -19,7 +19,7 @@ topics:
 tags: 
  - Latam
 
-lastmod: 2022-11-26 22:13:05
+lastmod: 2022-11-26 23:30:41
 ---
 
 Data Engineering Latam es la comunidad de data más grande y chévere de Latinoamérica cuya misión es impulsar el talento de la región mediante la difusión de charlas, workshops, grupos de estudio, ayuda colaborativa y creación de contenidos relevantes.
