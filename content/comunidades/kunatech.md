@@ -3,16 +3,22 @@ title: Kuñatech
 slug: kunatech
 source_id: reczWbZeTqnNro9gs
 date: 2022-09-26T18:32:55.000Z
-url_main: https://twitter.com/kunatechpy
+url_main: https://linktr.ee/KunaTech
 submitted_by: pedrogk
+links: 
+ - https-www-facebook-com-kunatechpy
+ - https-twitter-com-kunatechpy
+ - https-www-youtube-com-channel-ucr2nfrflzev6jhgw-tecpgw
+
 topics: 
  - diversidad-e-inclusion
+ - desarrollo-profesional
 
 tags: 
- - mujeres
- - paraguay
+ - Mujeres
+ - Paraguay
 
-lastmod: 2022-11-26 22:13:15
+lastmod: 2022-11-26 23:30:22
 ---
 
 Kuñatech es una comunidad que fue creada con la finalidad de proporcionar una red de apoyo inclusiva para paraguayas cuyo interés sea actualizarse y aprender sobre nuevas tecnologías, así como acercarse a otras personas que tienen esa misma motivación. El objetivo de #KuñaTech es crear comunidad, apoyar y visibilizar el trabajo de las mujeres en Tecnología del Paraguay.
