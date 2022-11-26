@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - puebla
- - mexico
- - r-ladies
+ - R
+ - Mujeres
+ - Puebla
+ - México
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:38
+lastmod: 2022-11-26 23:29:58
 ---
 
 El capítulo local R-Ladies Puebla busca promover la diversidad de género en la comunidad de R (un lenguaje de programación para la manipulación y análisis estadístico de datos).
