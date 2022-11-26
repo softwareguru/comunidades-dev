@@ -6,20 +6,20 @@ date: 2022-09-27T14:03:27.000Z
 url_main: https://devtalks.pe/
 submitted_by: pedrogk
 links: 
- - https://devtalks.pe/discord
- - https://devtalks.pe/twitter
- - https://devtalks.pe/twitch
+ - https-devtalks-pe-discord
+ - https-devtalks-pe-twitter
+ - https-devtalks-pe-twitch
 
 topics: 
- - Desarrollo profesional
- - Mobile app dev
- - Lenguajes y frameworks
+ - desarrollo-profesional
+ - mobile
+ - lenguajes-y-frameworks
 
 tags: 
- - Perú
- - Latam
+ - peru
+ - latam
 
-lastmod: 2022-11-26 01:10:18
+lastmod: 2022-11-26 22:13:47
 ---
 
 Charlas de tecnología, desarrollo, diseño, programación, frontend, backend, mobile y más.
