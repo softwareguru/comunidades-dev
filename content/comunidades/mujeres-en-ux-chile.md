@@ -1,13 +1,15 @@
 ---
 title: Mujeres en UX Chile
-ext_url: https://www.meetup.com/mujeres-en-ux-chile/
-date: 2022-09-28 09:57:41.893793
-temas:
- - UX
- - Diversidad e inclusión
+slug: mujeres-en-ux-chile
+source_id: recWWNwSTRAQOnUfI
+date: 2022-09-28T14:54:37.000Z
+url_main: https://www.meetup.com/mujeres-en-ux-chile/
+submitted_by: pedrogk
+topics: 
+ - ux
+ - diversidad-e-inclusion
 
-tags:
-
+lastmod: 2022-11-26 22:13:52
 ---
 
 Comunidad de mujeres para compartir conocimiento y experiencias con foco en Experiencia de Usuarios y disciplinas afines: Innovación, tecnología, agilidad, transformación digital, sociología, etc.
@@ -23,5 +25,3 @@ Objetivos:
 \- Generar redes de contacto
 \- Promover el aprendizaje y el compartir conocimiento
 \- Visibilizar a las mujeres dentro de la disciplina UX
-
-    
