@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - medellin
- - colombia
- - r-ladies
+ - R
+ - Mujeres
+ - Medellín
+ - Colombia
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:33
+lastmod: 2022-11-26 23:30:00
 ---
 
 R-Ladies Medellín da la bienvenida a todas aquellas personas interesadas en programar en R, sin importar si su nivel es de experto o principiante, pues esta comunidad fue creada con el objetivo de desarrollar habilidades y el conocimiento de R a través del aprendizaje y el intercambio social y colaborativo. Como principio fundador, no hay ningún costo por participar de esta comunidad.
