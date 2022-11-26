@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - lima
- - peru
- - r-ladies
+ - R
+ - Mujeres
+ - Lima
+ - Perú
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:35
+lastmod: 2022-11-26 23:30:01
 ---
 
 R-Ladies Lima le da la bienvenida a los interesados en programar en R, no importa si eres experto o estas comenzando, el objetivo de este grupo es promover R, intercambiar conocimiento y crear una red de chicas.
