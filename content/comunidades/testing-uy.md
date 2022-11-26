@@ -5,14 +5,19 @@ source_id: recmCdM4vPo9FN9qS
 date: 2022-10-05T03:36:41.000Z
 url_main: https://testinguy.org/
 submitted_by: pedrogk
+links: 
+ - https-twitter-com-testinguy
+ - https-www-meetup-com-es-testing-uy
+ - https-www-youtube-com-channel-uclmur9v43qhhtk7fvccruqg
+
 topics: 
  - testing-y-sqa
 
 tags: 
- - montevideo
- - uruguay
+ - Montevideo
+ - Uruguay
 
-lastmod: 2022-11-26 22:13:59
+lastmod: 2022-11-26 23:43:21
 ---
 
 Punto de encuentro de testers e interesados en testing en Uruguay y la región. ¡Organizamos meetups y webinars para compartir y aprender en comunidad!  
