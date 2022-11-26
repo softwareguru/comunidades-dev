@@ -1,18 +1,22 @@
 ---
 title: GDG San Francisco de Campeche
-ext_url: https://www.facebook.com/GDGCampeche/
-date: 2022-09-26 20:59:06.746610
-temas:
- - infra
- - Mobile app dev
+slug: gdg-san-francisco-de-campeche
+source_id: recMPqsiAOQrpmqcu
+date: 2022-09-27T00:39:29.000Z
+url_main: https://www.facebook.com/GDGCampeche/
+submitted_by: pedrogk
+topics: 
+ - infraestructura-ops
+ - mobile
 
-tags:
- - GDG
- - Android
- - Cloud
- - Campeche
- - México
+tags: 
+ - gdg
+ - android
+ - cloud
+ - campeche
+ - mexico
 
+lastmod: 2022-11-26 22:13:43
 ---
 
 Google Developers Group San Francisco de Campeche es una iniciativa para concentrar los esfuerzos de muchos desarrolladores en Campeche y sus alrededores para aprender, compartir y ser productivos en temas afines a tecnología. Se fundo en mayo de 2019.
@@ -23,5 +27,3 @@ Nuestros eventos están abiertos a principiantes, desarrolladores, gerentes y or
 
 <https://www.facebook.com/GDGCampeche/>
 
-
-    
