@@ -10,12 +10,12 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - ciudad-de-mexico
- - r-ladies
+ - R
+ - Mujeres
+ - Ciudad de México
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:28
+lastmod: 2022-11-26 23:30:07
 ---
 
 R-Ladies CDMX es parte de R-Ladies Global (<https://rladies.org/>), una organización mundial que busca generar una comunidad fuerte para compartir dudas, habilidades y apoyo sobre #RStats en una comunidad con perspectiva de género.
