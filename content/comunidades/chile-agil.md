@@ -5,18 +5,18 @@ source_id: reczJm1d0EZW3SNGe
 date: 2022-09-28T15:01:55.000Z
 submitted_by: pedrogk
 links: 
- - https://www.meetup.com/chileagil/
+ - https-www-meetup-com-chileagil
 
 topics: 
- - Agilidad & colaboración
+ - agilidad-colaboracion
 
 tags: 
- - Kanban
- - Scrum
- - Santiago
- - Chile
+ - kanban
+ - scrum
+ - santiago
+ - chile
 
-lastmod: 2022-11-26 01:45:12
+lastmod: 2022-11-26 22:13:54
 ---
 
 Encuentros para difundir y compartir experiencias sobre Cultura Ágil, entendida como una cultura de colaboración y aprendizaje entre personas orientadas a generar valor a la sociedad.
