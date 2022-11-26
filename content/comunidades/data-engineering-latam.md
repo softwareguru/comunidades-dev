@@ -1,16 +1,25 @@
 ---
 title: Data Engineering Latam
-ext_url: https://beacons.ai/dataengineeringlatam
-date: 2022-09-26 03:25:58.628299
-temas:
+slug: data-engineering-latam
+source_id: recc5BsQWSUNAxL3y
+date: 2022-09-09T18:35:21.000Z
+url_main: https://beacons.ai/dataengineeringlatam
+submitted_by: ximena
+links: 
+ - https://www.linkedin.com/company/data-engineering-latam
+ - https://t.me/dataengineeringlatam
+ - https://www.youtube.com/c/dataengineeringlatam
+ - https://facebook.com/dataengineeringlatam
+ - https://twitter.com/dataengilatam
+
+topics: 
  - data
  - Desarrollo profesional
 
-tags:
+tags: 
  - Latam
 
+lastmod: 2022-11-26 01:01:11
 ---
 
 Data Engineering Latam es la comunidad de data más grande y chévere de Latinoamérica cuya misión es impulsar el talento de la región mediante la difusión de charlas, workshops, grupos de estudio, ayuda colaborativa y creación de contenidos relevantes.
-
-    
