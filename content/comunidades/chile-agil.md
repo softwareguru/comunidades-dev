@@ -4,10 +4,10 @@ slug: chile-agil
 source_id: reczJm1d0EZW3SNGe
 date: 2022-09-28T15:01:55.000Z
 url_main: https://www.meetup.com/chileagil/
-url_meetup: None
-url_discord: None
-url_facebook: None
 submitted_by: pedrogk
+links: 
+ - https://www.meetup.com/chileagil/
+
 topics: 
  - Agilidad & colaboración
 
@@ -17,7 +17,7 @@ tags:
  - Santiago
  - Chile
 
-lastmod: 2022-11-26 00:13:02
+lastmod: 2022-11-26 01:01:16
 ---
 
 Encuentros para difundir y compartir experiencias sobre Cultura Ágil, entendida como una cultura de colaboración y aprendizaje entre personas orientadas a generar valor a la sociedad.
