@@ -3,10 +3,8 @@ title: R-Ladies Xalapa
 slug: r-ladies-xalapa
 source_id: recSNW1r019Q8XEXK
 date: 2022-09-26T23:33:52.000Z
+url_main: https://www.meetup.com/es/rladies-xalapa/
 submitted_by: pedrogk
-links: 
- - https-www-meetup-com-es-rladies-xalapa
-
 topics: 
  - data-ia
  - diversidad-e-inclusion
@@ -18,7 +16,7 @@ tags:
  - México
  - R-ladies
 
-lastmod: 2022-11-26 23:30:08
+lastmod: 2022-11-26 23:43:29
 ---
 
 El capítulo local R-Ladies Xalapa busca promover la diversidad de género en la comunidad de R (un lenguaje de programación para la manipulación y análisis estadístico de datos).
