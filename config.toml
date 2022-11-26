@@ -8,8 +8,7 @@ googleAnalytics = "G-L13LZSNWPP"
 [taxonomies]
 tag = "tags"
 formato = "formatos"
-tema = "temas"
-
+topic = "topics"
 
 [markup.goldmark.renderer]
     unsafe = true # Allow user HTML tags

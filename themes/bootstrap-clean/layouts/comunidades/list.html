@@ -20,7 +20,7 @@
       {{ range .Data.Pages.ByTitle }}
       <tr>
         <td><a class="session-title" href="{{.Permalink}}"><h5>{{ .Params.title }}</h5></a></td>
-        <td><ul class="taglist">{{ if isset .Params.temas 0 }}{{ range sort .Params.temas }}{{ with . | urlize }}{{ with $.Site.GetPage print "/temas/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
+        <td><ul class="taglist">{{ if isset .Params.topics 0 }}{{ range sort .Params.topics }}{{ with . | urlize }}{{ with $.Site.GetPage print "/topics/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
         <td><ul class="taglist">{{ if isset .Params.tags 0  }}{{ range .Params.tags }}{{ with . | urlize }}{{ with $.Site.GetPage print "/tags/" . }}<li><a href="{{.Permalink}}">{{.Title}}</a></li>{{ end }}{{ end }}{{ end }}{{ end }}</ul></td>      
       </tr>    
      {{ end }}

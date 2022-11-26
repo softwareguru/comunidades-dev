@@ -16,7 +16,7 @@
     <div id="temas">
       <h5>Temas de interés</h5>
       <ul>
-      {{ range (.GetTerms "temas") }}
+      {{ range (.GetTerms "topics") }}
           <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}    
     </ul>
