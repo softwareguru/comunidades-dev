@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - chiapas
- - mexico
- - r-ladies
+ - R
+ - Mujeres
+ - Chiapas
+ - México
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:36
+lastmod: 2022-11-26 23:30:06
 ---
 
 R-Ladies da la bienvenida a miembros de todos los niveles en programación estadística, puede ser principiante, aspirante a ser usuario o un programador experimentado interesado en mentorias o colaboración en redes.
