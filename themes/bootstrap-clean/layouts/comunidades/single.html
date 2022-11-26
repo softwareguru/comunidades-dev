@@ -1,10 +1,17 @@
 {{ define "main"}}
   <div class="container">
     <h1>{{ .Title }}</h1>
-    {{ with .Params.ext_url }}
-    <div class="website mb-3"><a href="{{ . }}" target="_blank">{{ . }}</a></div>
-    {{ end }}
     {{ .Content }}
+
+    <div id="links">
+      <h5>Links</h5>
+      <ul>
+        {{ with .Params.url_main }}<li><a href="{{ . }}" target="_blank">{{ . }}</a></li>{{ end }}
+        {{ range .Params.links }}
+          {{ with . }}<li><a href="{{ . }}" target="_blank">{{ . }}</a></li>{{ end }}
+        {{ end }}  
+      </ul>
+    </div>
 
     <div id="temas">
       <h5>Temas de interés</h5>
