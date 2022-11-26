@@ -6,17 +6,17 @@ date: 2022-09-09T17:03:18.000Z
 url_main: https://www.codeandomexico.org/
 submitted_by: ximena
 links: 
- - http://twitter.com/codeandomexico
- - http://slack.codeandomexico.org/
- - http://github.com/codeandomexico/
+ - http-twitter-com-codeandomexico
+ - http-slack-codeandomexico-org
+ - http-github-com-codeandomexico
 
 topics: 
- - Hacking cívico
+ - hacking-civico
 
 tags: 
- - México
+ - mexico
 
-lastmod: 2022-11-26 01:01:11
+lastmod: 2022-11-26 22:13:05
 ---
 
 Codeando México es una comunidad que desarrolla tecnología para el bien común. 
