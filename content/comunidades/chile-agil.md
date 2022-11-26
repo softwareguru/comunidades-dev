@@ -16,7 +16,7 @@ tags:
  - Santiago
  - Chile
 
-lastmod: 2022-11-26 22:13:54
+lastmod: 2022-11-26 23:30:45
 ---
 
 Encuentros para difundir y compartir experiencias sobre Cultura Ágil, entendida como una cultura de colaboración y aprendizaje entre personas orientadas a generar valor a la sociedad.
