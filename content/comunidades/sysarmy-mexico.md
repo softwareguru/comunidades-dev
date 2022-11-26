@@ -9,9 +9,9 @@ topics:
  - infraestructura-ops
 
 tags: 
- - mexico
+ - México
 
-lastmod: 2022-11-26 22:13:04
+lastmod: 2022-11-26 23:43:24
 ---
 
 Capítulo en México de Sysarmy, la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
