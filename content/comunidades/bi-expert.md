@@ -16,7 +16,7 @@ tags:
  - ia
  - business-intelligence
 
-lastmod: 2022-11-26 16:06:33
+lastmod: 2022-11-26 22:13:49
 ---
 
 Comunidad especializada en Business Intelligence, Big Data, Inteligencia Artificial y Ciencia de Datos.
