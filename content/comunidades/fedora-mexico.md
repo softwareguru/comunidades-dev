@@ -15,9 +15,8 @@ topics:
 tags: 
  - Fedora
  - Linux
- - México
 
-lastmod: 2022-11-26 22:13:22
+lastmod: 2022-11-26 23:30:38
 ---
 
 Fedora Mexico es un grupo oficial donde compartimos experiencias, conocimiento y noticias del proyecto Fedora. Entre los miembros de la comunidad se encuentran usuarios, hobbistas y colaboradores de Fedora, recibiendo y ayudando a quien este interesado en aprender o compartir con la comunidad.
