@@ -11,7 +11,7 @@ topics:
 tags: 
  - Argentina
 
-lastmod: 2022-11-26 23:23:03
+lastmod: 2022-11-26 23:30:46
 ---
 
 Comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
