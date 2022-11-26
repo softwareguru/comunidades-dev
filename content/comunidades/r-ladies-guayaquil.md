@@ -10,13 +10,13 @@ topics:
  - data-ia
 
 tags: 
- - r
- - mujeres
- - guayaquil
- - ecuador
- - r-ladies
+ - R
+ - Mujeres
+ - Guayaquil
+ - Ecuador
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:28
+lastmod: 2022-11-26 23:30:03
 ---
 
 ¡Bienvenid@s a R-Ladies Guayaquil!
