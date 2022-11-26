@@ -10,13 +10,13 @@ topics:
  - diversidad-e-inclusion
 
 tags: 
- - r
- - mujeres
- - cuernavaca
- - mexico
- - r-ladies
+ - R
+ - Mujeres
+ - Cuernavaca
+ - México
+ - R-ladies
 
-lastmod: 2022-11-26 22:13:37
+lastmod: 2022-11-26 23:30:05
 ---
 
 R-Ladies Cuernavaca es una comunidad mexicana que forma parte de R-Ladies Global, cuya misión es promover la diversidad de género dentro de la comunidad de R.
