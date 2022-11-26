@@ -16,7 +16,7 @@ tags:
  - Guanajuato
  - México
 
-lastmod: 2022-11-26 22:14:00
+lastmod: 2022-11-26 23:30:43
 ---
 
 Somos una comunidad de entusiastas del desarrollo de software.
