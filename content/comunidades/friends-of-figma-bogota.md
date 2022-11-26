@@ -6,14 +6,14 @@ date: 2022-09-08T15:21:58.000Z
 url_main: https://friends.figma.com/bogota/
 submitted_by: ximena
 topics: 
- - UX
+ - ux
 
 tags: 
- - Bogotá
- - Colombia
- - Figma
+ - bogota
+ - colombia
+ - figma
 
-lastmod: 2022-11-26 01:15:52
+lastmod: 2022-11-26 22:12:57
 ---
 
 Comunidad de @figmadesign en Bogotá, Colombia 🇨🇴 Somos un grupo de  voluntarios buscando traer el mejor contenido de educación sobre diseño y tendencias en diseño de interfaces.
