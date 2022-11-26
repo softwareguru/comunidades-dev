@@ -16,7 +16,7 @@ tags:
  - Santiago
  - Chile
 
-lastmod: 2022-11-26 22:13:53
+lastmod: 2022-11-26 23:30:40
 ---
 
 Somos un grupo de entusiastas de la tecnología Blockchain y de la red Ethereum. Buscamos crear aplicaciones descentralizadas sobre esta red. Creamos este grupo abierto para invitar a todos aquellos que quieran apoyar en la construcción de este nuevo modelo descentralizado a construir aplicaciones. Invitamos a todos los entusiastas, técnicos y no técnicos a formar parte de este grupo y a plantear nuevas ideas, crear network y sobre todo a construir.
