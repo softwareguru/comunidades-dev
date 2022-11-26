@@ -1,15 +1,17 @@
 ---
 title: GNU/Linux Latino
-ext_url: https://www.gnulinuxlatino.com/
-date: 2022-09-26 17:20:36.322013
-temas:
- - Open source
+slug: gnu-linux-latino
+source_id: recVLQFiWYYOOjMrg
+date: 2022-09-26T22:01:54.000Z
+url_main: https://www.gnulinuxlatino.com/
+submitted_by: pedrogk
+topics: 
+ - open-source
 
-tags:
- - Linux
+tags: 
+ - linux
 
+lastmod: 2022-11-26 22:13:19
 ---
 
 Comunidad de aprendizaje sobre Linux y software libre.
-
-    
