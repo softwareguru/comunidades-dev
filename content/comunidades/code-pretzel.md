@@ -6,10 +6,10 @@ date: 2022-09-26T17:51:22.000Z
 url_main: https://codepretzel.org/
 submitted_by: pedrogk
 links: 
- - https-discord-gg-k33p2d3amw
- - https-www-facebook-com-codepretzel
- - https-www-youtube-com-channel-uc0tman1gr83mykrsqmnoaaq
- - https-twitter-com-pretzelcode
+ - https://discord.gg/K33P2d3amW
+ - https://www.facebook.com/CoDePretzel/
+ - https://www.youtube.com/channel/UC0TMAn1gR83mykrSQmnoAAQ
+ - https://twitter.com/PretzelCode
 
 topics: 
  - hardware-maker-embedded
@@ -22,7 +22,7 @@ tags:
  - RISC V
  - Tijuana
 
-lastmod: 2022-11-26 23:30:45
+lastmod: 2022-11-27 07:08:33
 ---
 
 Proporcionar una comunidad donde crear sistemas embebidos, aprender, compartir entre todos, principiantes y avanzados y en el camino, mostrar el talento latinoamericano.
