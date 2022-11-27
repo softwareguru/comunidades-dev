@@ -5,7 +5,7 @@ source_id: recZqGcOK62M2zItG
 date: 2022-11-26T23:13:28.000Z
 url_main: http://masmujeresux.pe/
 links: 
- - https-www-facebook-com-masmujeresux-pe
+ - https://www.facebook.com/masmujeresux.pe
 
 topics: 
  - ux
@@ -14,7 +14,7 @@ topics:
 tags: 
  - Perú
 
-lastmod: 2022-11-26 23:30:19
+lastmod: 2022-11-27 07:08:41
 ---
 
 Capítulo Perú de la comunidad +Mujeres en UX, originada en Chile.
