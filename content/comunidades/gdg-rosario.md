@@ -6,9 +6,9 @@ date: 2022-11-25T21:57:06.000Z
 url_main: https://gdg.community.dev/gdg-rosario/
 submitted_by: pedrogk@gmail.com
 links: 
- - https-twitter-com-gdgrosarioar
- - https-www-youtube-com-c-gdgrosario
- - https-www-linkedin-com-company-google-developers-group-rosario
+ - https://twitter.com/gdgrosarioar
+ - https://www.youtube.com/c/GDGRosario
+ - https://www.linkedin.com/company/google-developers-group-rosario/
 
 topics: 
  - desarrollo-profesional
@@ -18,7 +18,7 @@ tags:
  - Rosario
  - Argentina
 
-lastmod: 2022-11-26 23:30:30
+lastmod: 2022-11-27 20:03:45
 ---
 
 Somos una comunidad que reúne desarrolladores, colaboradores y entusiastas que desean aprender a utilizar tecnologías de Google para brindar soluciones innovadoras a problemas relacionados con el ámbito académico, comunitario y empresarial.
