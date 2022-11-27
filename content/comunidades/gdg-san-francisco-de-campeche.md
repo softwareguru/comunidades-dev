@@ -6,9 +6,9 @@ date: 2022-09-27T00:39:29.000Z
 url_main: https://gdg.community.dev/gdg-san-francisco-de-campeche/
 submitted_by: pedrogk
 links: 
- - https-www-facebook-com-gdgcampeche
- - https-twitter-com-gdgcampeche
- - https-www-youtube-com-channel-ucsh5-hajt3vkx08sk-qir7a
+ - https://www.facebook.com/GDGCampeche/
+ - https://twitter.com/gdgcampeche
+ - https://www.youtube.com/channel/UCSH5-hAJT3vKx08sK_QiR7A
 
 topics: 
  - infraestructura-ops
@@ -21,7 +21,7 @@ tags:
  - Campeche
  - México
 
-lastmod: 2022-11-26 23:30:28
+lastmod: 2022-11-27 20:03:44
 ---
 
 Google Developers Group San Francisco de Campeche es una iniciativa para concentrar los esfuerzos de muchos desarrolladores en Campeche y sus alrededores para aprender, compartir y ser productivos en temas afines a tecnología. Se fundo en mayo de 2019.
