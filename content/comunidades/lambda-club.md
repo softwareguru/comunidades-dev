@@ -6,7 +6,7 @@ date: 2022-09-26T22:08:59.000Z
 url_main: https://lambda-club.com
 submitted_by: pedrogk
 links: 
- - https-www-facebook-com-lambdaclubmx
+ - https://www.facebook.com/lambdaclubmx/
 
 topics: 
  - desarrollo-profesional
@@ -14,7 +14,7 @@ topics:
 tags: 
  - Estudiantes
 
-lastmod: 2022-11-26 23:30:21
+lastmod: 2022-11-27 20:03:37
 ---
 
 **Lambda Club** es un espacio construido para estudiantes, con la finalidad de participar en **actividades educativas** y brindar **oportunidades de crecimiento** en el área tecnológicaLambda Club es un espacio construido para estudiantes, con la finalidad de participar en actividades educativas y brindar oportunidades de crecimiento en el área tecnológica
