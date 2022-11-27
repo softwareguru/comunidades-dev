@@ -15,7 +15,7 @@ tags:
  - Ruby
  - México
 
-lastmod: 2022-11-26 23:43:28
+lastmod: 2022-11-27 05:53:43
 ---
 
 Comunidad mexicana del lenguaje de programación Ruby
