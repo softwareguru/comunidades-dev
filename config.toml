@@ -6,9 +6,9 @@ removePathAccents = true
 googleAnalytics = "G-L13LZSNWPP"
 
 [taxonomies]
-tag = "tags"
-formato = "formatos"
-topic = "topics"
+  tag = "tags"
+  formato = "formatos"
+  topic = "topics"
 
 [markup.goldmark.renderer]
     unsafe = true # Allow user HTML tags
