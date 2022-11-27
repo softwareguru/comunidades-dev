@@ -6,7 +6,7 @@ date: 2022-09-28T14:36:14.000Z
 url_main: https://www.cloudexperts.pe/
 submitted_by: pedrogk
 links: 
- - https-www-facebook-com-sqlpasslima
+ - https://www.facebook.com/sqlpasslima/
 
 topics: 
  - infraestructura-ops
@@ -16,7 +16,7 @@ tags:
  - Azure
  - Microsoft
 
-lastmod: 2022-11-26 23:30:42
+lastmod: 2022-11-27 07:08:34
 ---
 
 Somos una comunidad de jovenes entusiastas y profesionales en tecnología Microsoft.
