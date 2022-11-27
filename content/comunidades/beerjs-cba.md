@@ -6,8 +6,8 @@ date: 2022-09-27T14:35:30.000Z
 url_main: https://beerjscba.com
 submitted_by: Migue
 links: 
- - https-www-meetup-com-es-es-beer-js-cordoba
- - https-discord-com-invite-fvhvsh8
+ - https://www.meetup.com/es-ES/Beer-js-Cordoba/
+ - https://discord.com/invite/FvHvsh8
  - 
 
 topics: 
@@ -19,7 +19,7 @@ tags:
  - Argentina
  - BeerJS
 
-lastmod: 2022-11-26 22:13:48
+lastmod: 2022-11-27 07:08:39
 ---
 
 Comunidad de Javascript y Cervezas de Córdoba, Argentina
