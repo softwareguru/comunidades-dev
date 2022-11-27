@@ -6,10 +6,10 @@ date: 2022-09-28T21:11:54.000Z
 url_main: https://gdg.community.dev/gdg-orizaba-1/
 submitted_by: pedrogk
 links: 
- - https-www-youtube-com-c-gdgorizaba
- - https-discord-gg-6urue5w9xg
- - https-www-facebook-com-gdgorizaba
- - https-twitter-com-gdgorizaba
+ - https://www.youtube.com/c/GDGOrizaba
+ - https://discord.gg/6uRUE5W9xg
+ - https://www.facebook.com/gdgorizaba/
+ - https://twitter.com/gdgorizaba/
  - 
 
 topics: 
@@ -22,7 +22,7 @@ tags:
  - Orizaba
  - México
 
-lastmod: 2022-11-26 23:30:30
+lastmod: 2022-11-27 20:03:49
 ---
 
 Si eres estudiante de programación, profesor o alguien que le apasiona compartir sus conocimientos, entonces únete a **GDG Orizaba. **Toda la región de Orizaba, Córdoba y Fortín son bienvenidas a ser parte de los eventos que haremos en conjunto con comunidades de programación, universidades y preparatorias.
