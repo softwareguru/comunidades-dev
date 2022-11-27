@@ -6,8 +6,8 @@ date: 2022-09-27T05:01:29.000Z
 url_main: https://linktr.ee/nubeasada
 submitted_by: Saúl Yael Puente Ruiz
 links: 
- - https-www-facebook-com-nube-asada-atg-106917168351497
- - https-twitter-com-nubeasada
+ - https://www.facebook.com/Nube-Asada-ATG-106917168351497
+ - https://twitter.com/nubeasada
 
 topics: 
  - data-ia
@@ -20,7 +20,7 @@ tags:
  - Azure
  - MLSA
 
-lastmod: 2022-11-26 23:30:17
+lastmod: 2022-11-27 20:03:36
 ---
 
 Somos un grupo de Azure Tech Groups en México pertenecientes al estado de Nuevo León, queremos integrar a toda la raza para hacer una Nube Asada llena de aprendizajes y herramientas tecnológicas y divertirnos mientras aprendemos y compartimos.
