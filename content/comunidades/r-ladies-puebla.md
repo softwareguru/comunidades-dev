@@ -16,7 +16,7 @@ tags:
  - México
  - R-ladies
 
-lastmod: 2022-11-26 23:29:58
+lastmod: 2022-11-28 23:08:35
 ---
 
 El capítulo local R-Ladies Puebla busca promover la diversidad de género en la comunidad de R (un lenguaje de programación para la manipulación y análisis estadístico de datos).
