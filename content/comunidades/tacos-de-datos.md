@@ -6,13 +6,13 @@ date: 2022-09-08T15:21:58.000Z
 url_main: https://www.tacosdedatos.com
 submitted_by: pedrogk
 links: 
- - https-twitter-com-tacosdedatos
- - https-facebook-com-tacosdedatos
+ - https://twitter.com/tacosdedatos
+ - https://facebook.com/tacosdedatos
 
 topics: 
  - data-ia
 
-lastmod: 2022-11-26 23:43:24
+lastmod: 2022-11-28 23:08:26
 ---
 
 Sitio web para aprender sobre visualización y ciencia de datos, en tu idioma.
