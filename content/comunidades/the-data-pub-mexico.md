@@ -6,7 +6,7 @@ date: 2022-09-26T01:29:31.000Z
 url_main: meetup.com/thedatapub
 submitted_by: xuxoramos
 links: 
- - https-twitter-com-thedatapub
+ - https://twitter.com/thedatapub
 
 topics: 
  - data-ia
@@ -18,7 +18,7 @@ tags:
  - estadística
  - machine learning
 
-lastmod: 2022-11-26 23:43:21
+lastmod: 2022-11-28 23:08:23
 ---
 
 La primerísima y más grande comunidad de Ciencia de Datos y Machine Learning de México, con +2000 miembros y seguidores, y actualmente buscando grupos que quieran abrir pubs en todo LATAM.
