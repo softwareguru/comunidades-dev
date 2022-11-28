@@ -13,9 +13,9 @@ topics:
 tags: 
  - Mujeres
  - Estudiantes
- - Ciudad de México
+ - CDMX
 
-lastmod: 2022-11-27 07:08:40
+lastmod: 2022-11-28 23:08:54
 ---
 
 Somos una comunidad de mujeres estudiantes de preparatoria y universidad del área STEM, con el interés de empoderar, motivar e inspirar a mujeres y niñas a estar en el área STEM.
