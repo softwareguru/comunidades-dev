@@ -16,7 +16,7 @@ tags:
  - Bolivia
  - R-ladies
 
-lastmod: 2022-11-26 23:30:02
+lastmod: 2022-11-28 23:08:41
 ---
 
 Nuestra meta es crear una atmósfera amigable para personas interesadas en programar en R en La Paz que se identifiquen como mujer o con géneros disidentes (por ejemplo, personas con género fluído o agénero, entre otras). No importa si nunca usaste R ó si tienes R como herramienta principal de trabajo. El objetivo es promover R, intercambiar conocimiento y crear una red de contactos.
