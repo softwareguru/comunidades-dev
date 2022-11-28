@@ -11,7 +11,7 @@ topics:
 tags: 
  - México
 
-lastmod: 2022-11-26 23:43:24
+lastmod: 2022-11-28 23:08:28
 ---
 
 Capítulo en México de Sysarmy, la comunidad de sistemas que nuclea a profesionales del área para favorecer el contacto y el intercambio de conocimiento de manera informal.
