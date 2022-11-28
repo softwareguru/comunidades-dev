@@ -6,7 +6,7 @@ date: 2022-09-26T17:17:33.000Z
 url_main: www.robotslatam.com
 submitted_by: diana
 links: 
- - https-twitter-com-robots-latam
+ - https://twitter.com/robots_latam
 
 topics: 
  - hardware-maker-embedded
@@ -16,7 +16,7 @@ tags:
  - Robótica
  - Open hardware
 
-lastmod: 2022-11-26 23:30:11
+lastmod: 2022-11-28 23:08:32
 ---
 
 Es una organización sin fines de lucro que busca promover el desarrollo de la robótica en Latinoamérica.
