@@ -16,7 +16,7 @@ tags:
  - Argentina
  - R-ladies
 
-lastmod: 2022-11-26 23:30:14
+lastmod: 2022-11-28 23:08:45
 ---
 
 Somos RLadies Buenos Aires, el capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R.
