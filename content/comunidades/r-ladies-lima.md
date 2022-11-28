@@ -16,7 +16,7 @@ tags:
  - Perú
  - R-ladies
 
-lastmod: 2022-11-26 23:30:01
+lastmod: 2022-11-28 23:08:39
 ---
 
 R-Ladies Lima le da la bienvenida a los interesados en programar en R, no importa si eres experto o estas comenzando, el objetivo de este grupo es promover R, intercambiar conocimiento y crear una red de chicas.
