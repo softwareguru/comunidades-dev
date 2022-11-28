@@ -15,8 +15,9 @@ tags:
  - AWS
  - CDMX
  - Cloud
+ - México
 
-lastmod: 2022-11-28 22:51:34
+lastmod: 2022-11-28 23:08:55
 ---
 
 User Group oficial de AWS en la Ciudad de México. Este grupo tiene como propósito enseñarte sobre diseño y arquitectura en la nube de Amazon Web Services, hablaremos sobre temas relacionados a alta disponibilidad, big data, mobile, backend entre muchos otros con talleres en donde podrás aprender a desarrollar soluciones robustas para tu negocio ó proyecto de emprendimiento.
