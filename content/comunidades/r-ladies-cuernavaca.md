@@ -16,7 +16,7 @@ tags:
  - México
  - R-ladies
 
-lastmod: 2022-11-26 23:30:05
+lastmod: 2022-11-28 23:08:43
 ---
 
 R-Ladies Cuernavaca es una comunidad mexicana que forma parte de R-Ladies Global, cuya misión es promover la diversidad de género dentro de la comunidad de R.
