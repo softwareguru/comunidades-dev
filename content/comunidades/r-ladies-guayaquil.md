@@ -16,7 +16,7 @@ tags:
  - Ecuador
  - R-ladies
 
-lastmod: 2022-11-26 23:30:03
+lastmod: 2022-11-28 23:08:40
 ---
 
 ¡Bienvenid@s a R-Ladies Guayaquil!
