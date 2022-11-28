@@ -12,7 +12,7 @@ topics:
 tags: 
  - Sinaloa
 
-lastmod: 2022-11-26 23:43:20
+lastmod: 2022-11-28 23:08:22
 ---
 
 Tomato Valley, es una comunidad de personas interesadas en hacer crecer el interés por las nuevas tecnologías y dar apoyos y recursos a los proyectos de la población sinaloense, la visión del proyecto es llegar a ser reconocidos como un clúster empresarial de alto potencial y creatividad.
