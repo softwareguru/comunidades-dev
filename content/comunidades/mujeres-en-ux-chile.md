@@ -12,7 +12,11 @@ topics:
  - ux
  - diversidad-e-inclusion
 
-lastmod: 2022-11-27 07:08:42
+tags: 
+ - Santiago
+ - Chile
+
+lastmod: 2022-12-04 17:46:04
 ---
 
 Comunidad de mujeres para compartir conocimiento y experiencias con foco en Experiencia de Usuarios y disciplinas afines: Innovación, tecnología, agilidad, transformación digital, sociología, etc.
